@@ -1,0 +1,16 @@
+{
+  "name": "hello_world_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app-3.js",
+    "start-server": "nodemon app-3.js"
+  },
+  "author": "Nilesh Wani",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
